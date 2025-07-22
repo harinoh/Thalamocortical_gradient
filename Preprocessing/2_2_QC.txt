@@ -1,0 +1,1 @@
+Sort fsl_motion_outliers output files into QC file for following matlab code
