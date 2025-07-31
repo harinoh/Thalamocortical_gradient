@@ -1,1 +1,0 @@
-perform Motion_outliers_QC_4loop.m code using matlab
